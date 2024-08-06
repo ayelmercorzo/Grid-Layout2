@@ -1,7 +1,7 @@
 # Grid Layout 2 🟥
 
 ## Descripción
-El proyecto **Grid Layout** muestra una página web con un diseño de cuadrícula responsivo que combina videos e imágenes. El diseño está realizado usando CSS Grid, proporcionando una experiencia visual atractiva y dinámica. El proyecto incluye efectos de desplazamiento y un tema oscuro para una estética inmersiva.
+El proyecto **Grid Layout 2** muestra una página web con un diseño de cuadrícula responsivo que combina videos e imágenes. El diseño está realizado usando CSS Grid, proporcionando una experiencia visual atractiva y dinámica. El proyecto incluye efectos de desplazamiento y un tema oscuro para una estética inmersiva.
 
 ## Estructura de carpetas 📁
 - `css`:
@@ -26,7 +26,7 @@ El proyecto **Grid Layout** muestra una página web con un diseño de cuadrícul
 ### Pasos 👣
 1. **Clonar el repositorio:**
     ```sh
-    git clone https://github.com/ayelmercorzo/Grid-Layout.git
+    git clone https://github.com/ayelmercorzo/Grid-Layout2.git
     ```
 
 2. **Navegar al directorio del proyecto:**
